@@ -1,0 +1,18 @@
+{
+  "name": "ember-cli-codemirror-shim",
+  "main": [
+    "codemirror-shim.js"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/IvyApp/ember-cli-codemirror-shim",
+  "authors": [
+    "Dray Lacy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "codemirror": "~4.8.0"
+  }
+}
