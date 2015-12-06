@@ -13,6 +13,6 @@
     "**/.*"
   ],
   "dependencies": {
-    "codemirror": "~5.7.0"
+    "codemirror": "~5.7"
   }
 }
